@@ -13,3 +13,5 @@ If you download an add-in or if a co-worker or friend sends you an add-in, you c
   3. In the Add-Ins dialog box, click Add New.
   4. In the Add New PowerPoint Add-In dialog box, browse for the add-in that you want to add, and then click OK.
   5. A security notice appears. If you are certain that the add-in comes from a trusted source, click Enable Macros, and then click Close.
+  
+Read more at [Link Text](https://support.office.com/en-us/article/add-or-load-a-powerpoint-add-in-3de8bbc2-2481-457a-8841-7334cd5b455f)
