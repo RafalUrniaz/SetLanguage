@@ -4,7 +4,7 @@ This Add-In sets appropriate language to all elements (shapes, text, boxes etc.)
 
 ![alt text](./Source/4_fin.jpg)
 
-# How to add / install PowerPoint Add-in
+# How to install PowerPoint Add-in
 
 If you download an add-in or if a co-worker or friend sends you an add-in, you can save it to your computer and then install the add-in by adding it to the Available Add-Ins list.
 
