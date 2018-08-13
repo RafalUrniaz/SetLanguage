@@ -1,6 +1,6 @@
 
 
-# SetLanguage PowerPoint Add-in (<a href="./SetLanguage/releases">Download Add-in</a>)
+# SetLanguage PowerPoint Add-in (<a href="https://github.com/RafalUrniaz/SetLanguage/releases/tag/1.1">Download Add-in</a>)
 
 This Add-In sets appropriate language to all elements (shapes, text, boxes etc.) in PowerPoint presentation even if the default set language command doesn't do it properly
 
