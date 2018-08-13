@@ -1,4 +1,4 @@
-<div style="text-align:center"><a href="./Download/SetLanguage.ppam?raw=true">Download Add-in</ a></ div>
+<div style="text-align:center;"><a href="./Download/SetLanguage.ppam?raw=true">Download Add-in</ a></ div>
 # SetLanguage PowerPoint Add-in
 
 This Add-In sets appropriate language to all elements (shapes, text, boxes etc.) in PowerPoint presentation even if the default set language command doesn't do it properly
