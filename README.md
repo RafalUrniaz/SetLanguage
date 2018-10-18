@@ -1,6 +1,6 @@
 
 
-# SetLanguage PowerPoint Add-in (<a href="https://github.com/RafalUrniaz/SetLanguage/releases/tag/1.1">Download Add-in</a>)
+# SetLanguage PowerPoint Add-in 
 
 This Add-In sets appropriate language to all elements (shapes, text, boxes etc.) in PowerPoint presentation even if the default set language command doesn't do it properly
 
@@ -17,3 +17,6 @@ If you download an add-in or if a co-worker or friend sends you an add-in, you c
   5. A security notice appears. If you are certain that the add-in comes from a trusted source, click **Enable Macros**, and then click **Close**.
   
 Read more at [support.office.com](https://support.office.com/en-us/article/add-or-load-a-powerpoint-add-in-3de8bbc2-2481-457a-8841-7334cd5b455f)
+
+
+(<a href="https://github.com/RafalUrniaz/SetLanguage/releases/tag/1.1">Download Add-in</a>)
