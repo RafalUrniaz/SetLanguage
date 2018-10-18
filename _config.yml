@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 show_downloads: true
-owner: XqjgDDzQlNamaGft-wYZtx565x3YrDmJa-e2nsku1fU
+google_site_verification: XqjgDDzQlNamaGft-wYZtx565x3YrDmJa-e2nsku1fU
+plugins:
+  - jekyll-seo-tag
