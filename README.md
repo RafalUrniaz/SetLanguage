@@ -1,7 +1,3 @@
----
-author: "Rafal Urniaz"
-layout: "foobar"
----
 
 # SetLanguage PowerPoint Add-in 
 
