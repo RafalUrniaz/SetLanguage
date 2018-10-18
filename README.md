@@ -8,7 +8,7 @@ This Add-In sets appropriate language to all elements (shapes, text, boxes etc.)
 
 # How to install PowerPoint Add-in
 
-If you download an add-in or if a co-worker or friend sends you an add-in, you can save it to your computer and then install the add-in by adding it to the Available Add-Ins list.
+If you download an add-in or if a co-worker or a friend sends you the add-in, you can save it to your computer, install, and add into the available Add-Ins list.
 
   1. Click **File** > **Options**, and then click **Add-Ins**.
   2. In the **Manage** list, click **PowerPoint Add-ins**, and then click **Go**.
