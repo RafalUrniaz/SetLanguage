@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 show_downloads: true
 layouts_dir: docs/_layouts
+logo: docs/52aeca5e-5075-11e6-92a2-34884bd72d8c.png
 google_site_verification: XqjgDDzQlNamaGft-wYZtx565x3YrDmJa-e2nsku1fU
 plugins:
   - jekyll-seo-tag
