@@ -1,5 +1,7 @@
 # SetLanguage PowerPoint Add-in 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0c5a85bd9dfe417abedd8f49cabd5fae)](https://app.codacy.com/app/RafalUrniaz/SetLanguage?utm_source=github.com&utm_medium=referral&utm_content=RafalUrniaz/SetLanguage&utm_campaign=Badge_Grade_Dashboard)
+
 This Add-In sets appropriate language to all elements (shapes, text, boxes etc.) in PowerPoint presentation even if the default set language command doesn't do it properly
 
 ![alt text](./Source/4_fin.jpg)
