@@ -2,7 +2,7 @@ title: ' '
 theme: jekyll-theme-minimal
 show_downloads: true
 layouts_dir: docs/_layouts
-logo: docs/52aeca5e-5075-11e6-92a2-34884bd72d8c.png
+logo: docs/logo_color_stripe_solo_logo-1.png
 google_site_verification: XqjgDDzQlNamaGft-wYZtx565x3YrDmJa-e2nsku1fU
 plugins:
   - jekyll-seo-tag
